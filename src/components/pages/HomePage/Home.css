@@ -1,0 +1,19 @@
+/* 
+element.style {
+    left: 594px;
+    top: 322px;
+}
+.cursor--hidden {
+    opacity: 0;
+}
+.cursor {
+    width: 10px;
+    height: 10px;
+    background: #ffb60a;
+    position: fixed;
+    transform: translate(-50%,-50%);
+    pointer-events: none;
+    z-index: 9999;
+    transition: all 3.15s ease;
+    transition-property: opacity;
+} */
