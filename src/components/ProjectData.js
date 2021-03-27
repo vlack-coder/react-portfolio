@@ -1,5 +1,24 @@
 export const Projekts = [
   {
+    img: "/images/large.png",
+    title: "Ghimmy's Cart",
+    link: "https://ghimmycart.netlify.app",
+    techused: ["firebase", "react"],
+  },
+  {
+    img: "/images/wotsapp.jpg",
+    title: "Ghimmy's Blog",
+    link: "https://ghimmysblog.netlify.app",
+    techused: ["firebase", "react"],
+  },
+
+  {
+    img: "/images/futball.jpg",
+    title: "Futboll",
+    link: "https://futboll.netlify.app",
+    techused: ["firebase", "react"],
+  },
+  {
     img: "/images/wotsapp.jpg",
     title: "WhatsApp",
     link: "https://whatsapp-clone-64096.web.app/",
@@ -38,7 +57,7 @@ export const Projekts = [
   {
     img: "/images/portf.jpg",
     title: "Portfolio",
-    link: "link",
+    link: "https://ifeoluwadeleke.netlify.app",
     techused: ["node", "react"],
   },
 ];
