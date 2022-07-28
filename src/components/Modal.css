@@ -24,7 +24,7 @@
   width: 100%;
   height: 100%;
   border-radius: 10px 0 0 10px;
-  background: #000;
+  background: rgba(109, 97, 97, 0.758);
 }
 .mcontent {
   display: flex;
