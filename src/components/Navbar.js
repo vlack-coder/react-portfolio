@@ -98,27 +98,6 @@ function Navbar() {
                   Contact
                 </LinkS>
               </li>
-              <li className="nav-btn">
-                {button ? (
-                  <LinkS to="/sign-up" className="btn-link">
-                    <Button
-                      buttonStyle="btn--primary"
-                      // buttonSize="btn--mobile"
-                      onClick={closeMobileMenu}
-                    ></Button>
-                  </LinkS>
-                ) : (
-                  <LinkS to="/sign-up" className="btn-link">
-                    <Button
-                      buttonStyle="btn--outline"
-                      buttonSize="btn--mobile"
-                      onClick={closeMobileMenu}
-                    >
-                      SIGN UP
-                    </Button>
-                  </LinkS>
-                )}
-              </li>
             </ul>
           </div>
         </nav>
