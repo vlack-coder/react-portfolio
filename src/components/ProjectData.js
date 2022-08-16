@@ -17,7 +17,7 @@ export const Projekts = [
   {
     img: "/images/large.png",
     title: "i-Simplify",
-    link: "https://ghimmycart.netlify.app",
+    link: "https://i-simplify.netlify.app/",
     techUsed: ["Apollo", "GraphQL", "React"],
     about: "An e-learning platform (Yet to Connect to Backend)",
   },
